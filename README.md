@@ -1,6 +1,6 @@
 # https://react-lesson-reminder.netlify.app/
 
-![lessonReminder](https://user-images.githubusercontent.com/118957608/218976632-5da217d2-990a-410e-a7d5-f37d339b6b79.gif)
+![react1](https://user-images.githubusercontent.com/118957608/219010316-5544dcc4-f137-469c-9fb7-ee97230abd66.gif)
 
 
 
