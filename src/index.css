@@ -11,3 +11,44 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul{
+  list-style-type: none;
+}
+
+h5,
+h6 {
+  letter-spacing: 3 rem;
+  margin-bottom: 0.75 rem;
+}
+li{
+
+  margin-bottom: 1rem;
+}
+
+.lesson-card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lesson{
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 0.75rem;
+  margin-bottom: 1.5rem;
+  align-items: center;
+}
+
+.lesson img{
+  width: 75px;
+  height: 75px;
+ border-radius: 10%;
+
+}

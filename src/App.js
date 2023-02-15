@@ -1,11 +1,14 @@
 import Header from "./components/Header/Header";
-import Lesson from "./components/helper/pages/Lesson";
+import Lesson from "./pages/Lesson";
+
+
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Lesson />
+      
+     <Lesson />
     </div>
   );
 }

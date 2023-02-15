@@ -1,13 +1,13 @@
 import React from "react";
-import Lesson from "../helper/pages/Lesson";
+import './Header.css';
 
 const Header = () => {
   return (
     <div>
-      <div>
+      <section className="header">
         <img src="" alt="" />
         <h1>Lesson Reminder</h1>
-      </div>
+      </section>
     </div>
   );
 };
