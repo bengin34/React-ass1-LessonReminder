@@ -6,7 +6,7 @@ const Lesson = () => {
   return (
     <div className="container" >
     {data.map(({name,image,age,id}) => (
-      <LessonCard name={name} age={age} image={image} id={id} /> 
+      <LessonCard key={id} name={name} age={age} image={image} id={id} /> 
       ))}
     </div>
   );

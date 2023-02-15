@@ -9,6 +9,7 @@ const LessonCard = ({ id, name, image, age }) => {
         <article>
           <h5>Lesson Name: {name} </h5>
           <h5>Lesson Hour: {age} </h5>
+
         </article>
       </li>
     </div>
