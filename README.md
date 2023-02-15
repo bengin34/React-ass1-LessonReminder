@@ -1,3 +1,9 @@
+# https://react-lesson-reminder.netlify.app/
+
+![lessonReminder](https://user-images.githubusercontent.com/118957608/218976632-5da217d2-990a-410e-a7d5-f37d339b6b79.gif)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
