@@ -4,7 +4,7 @@ import {data} from "../helper/data";
 
 const Lesson = () => {
   return (
-    <div>
+    <div className="container" >
     {data.map(({name,image,age,id}) => (
       <LessonCard name={name} age={age} image={image} id={id} /> 
       ))}
